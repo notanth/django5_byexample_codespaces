@@ -1,7 +1,0 @@
-{
-  "name": "django5-byexample",
-  "features": {
-    "ghcr.io/astral-sh/uv/devcontainer-feature/uv:1": {}
-  },
-  "postCreateCommand": "uv sync"
-}
