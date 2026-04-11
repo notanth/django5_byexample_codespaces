@@ -1,0 +1,6 @@
+{
+  "name": "Python with uv",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13-bullseye",
+  "onCreateCommand": "pip install uv",
+  "postCreateCommand": "uv sync"
+}
